@@ -1,0 +1,1 @@
+(((primero/segundo) - tercero)+( sexto * (cuarto - quinto)))
